@@ -347,6 +347,8 @@ several models with different feature selection. And we found that below behavio
 
 ![graph7](images/graph7.png)
 
+![graph_11](images/graph11.png)
+
 ---
 
 #### Step 11: Machine Learning
